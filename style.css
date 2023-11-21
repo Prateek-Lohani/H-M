@@ -24,12 +24,18 @@ html,body{
 }
 
 .left-top{
-    padding:6vw 4vw;
+    padding:2vw 2vw;
     font-size: 4rem;
-    background-size: 100%;
 }
 
+.rate-text{
+    font-size: 25px;
+}
 
+i{
+    font-size: 20px;
+    color: red;
+}
 
 .left-bottom{
     padding: 5rem 2rem 0 2rem;
@@ -115,4 +121,6 @@ html,body{
     
 }
 
-
+.rate-text{
+    padding:20px;
+}
